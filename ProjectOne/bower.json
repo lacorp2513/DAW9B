@@ -1,0 +1,21 @@
+{
+  "name": "MyBootstrapApp",
+  "homepage": "https://github.com/lacorp2513/DAW9B",
+  "authors": [
+    "lacorp2513 <lizer132@yahoo.com.mx>"
+  ],
+  "description": "How to use bootstrap framework",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "boostrap#^4.1.1",
+    "fontawesome": "^5.0.13"
+  }
+}
