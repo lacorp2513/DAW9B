@@ -1,0 +1,22 @@
+{
+  "name": "ProjectTwo",
+  "homepage": "https://github.com/lacorp2513/DAW9B",
+  "authors": [
+    "lacorp2513 <lizer132@yahoo.com.mx>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "jquery": "^3.3.1",
+    "fontawesome": "^5.0.13"
+  }
+}
